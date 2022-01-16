@@ -5,6 +5,8 @@ public class Index_number {
         System.out.println(index);
         String StartToEnd=name.substring(11,17);
         System.out.println(StartToEnd);
+        String ending=name.substring(11);
+        System.out.println(ending);
 
     }
 }
